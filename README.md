@@ -1,61 +1,69 @@
-<!-- ──────────────────────────────────────────────── -->
-<!--                MODERN + CLEAN VERSION            -->
-<!-- ──────────────────────────────────────────────── -->
-
 <div align="center">
-  <!-- Bigger, more elegant hero with better gradient & animation -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=280&section=header&text=Gul%20Faraz%20Ahmed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Crafting%20Beautiful%20Experiences&descSize=22&descAlignY=65&descColor=ddd" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Softer, more premium typing style -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&height=70&lines=Hey%20there!%20I'm%20Gul%20%E2%9C%A8;3.5%2B%20years%20crafting%20Flutter%20apps;90%2B%20repositories%20%26%20growing;Passionate%20about%20pixel-perfect%20UX;Let's%20build%20something%20beautiful!;" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- Minimal, rounded, glass-like social buttons -->
-<div align="center">
-  <a href="https://linkedin.com/in/gul-faraz-ahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" height="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://devgul.com">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111" height="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:gulfarazahmed08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b32d00" height="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/s/RGa82w">
-    <img src="https://img.shields.io/badge/Fiverr-00CC99?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=009966" height="32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gul%20Faraz%20Ahmed&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Flutter%20Developer%20%E2%80%A2%20Firebase%20Expert%20%E2%80%A2%20Mobile%20Performance%20Optimizer&descSize=22&descAlignY=65&descColor=ffffff" width="100%"/>
+  
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Hey!+I'm+Gul+Faraz+Ahmed+%F0%9F%91%8B;3%2B+Years+of+Flutter+%26+Firebase;Performance+up+40%25+%7C+Deployments+down+60%25;Building+scalable+%26+beautiful+mobile+apps;Open+to+freelance+%26+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <br/><br/>
+  
+  <a href="https://www.linkedin.com/in/gul-faraz-ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/Gul-Is-Here">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://devgul.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:gulfarazahmed08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gulfarazahmed08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+923110850234">
+    <img src="https://img.shields.io/badge/Phone-+92%20311%20850234-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Gul-Is-Here&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
-<br>
+---
 
-<!-- Very elegant profile views -->
+### 🌟 Professional Summary
+
+Performance-driven **Full-Stack Mobile Developer** with **3+ years** of experience building **cross-platform applications** using **Flutter** & **Firebase**.  
+Expert in **Clean Architecture (MVVM)**, **performance optimization (up to 40%)**, **CI/CD automation (60% faster deployments)**, and creating scalable, high-retention mobile experiences.
+
+---
+
+### 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gul-Is-Here&style=flat-square&color=7DD3FC&label=Profile+Views" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=dart&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=dart&logoColor=white" alt="Provider"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
 </div>
 
-<br><br>
+---
 
-<!-- ───── About ─────────────────────────────────────── -->
+### 💼 Work Experience Timeline
 
-### About Me
+```mermaid
+gantt
+    title Career Timeline
+    dateFormat  YYYY-MM
+    axisFormat %Y-%m
+    todayMarker stroke-width:3,stroke:#00F5D4,opacity:0.7
 
-```yaml
-name           : Gul Faraz Ahmed
-from           : Lahore, Pakistan 🇵🇰
-focus          : Flutter • Mobile UX • Clean Architecture
-currently      :
-  - SalonX        (dual-portal salon platform)
-  - Trucker Edge  (logistics & trucking solution)
-  - Community App (social engagement platform)
-exploring      :
-  - Advanced animations & CustomPaint
-  - Riverpod + Supabase
-  - AI features in mobile apps
-motto          : "Make it simple. Make it beautiful."
-fun_fact       : 6-hour debug session → missing semicolon 😅
+    section CSG Pakistan
+    Flutter Developer                :active, csg, 2023-09, 2026-02
+    section Savvy Solution MMC
+    Full Stack Flutter (Part-Time)   :done, savvy, 2025-12, 2026-01
+    section A99 Solution
+    Associate Software Engineer      :done, a99, 2022-06, 2023-08
