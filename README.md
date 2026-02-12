@@ -200,47 +200,207 @@ const gulFaraz = {
 
 <div align="center">
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 🏗️ State Management & Architecture
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=dart&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=dart&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_Pattern-2196F3?style=for-the-badge&logo=architecture&logoColor=white)
+<br/>
 
-### 🔥 Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+### 🎯 Core Skills Orbit
 
-### 💾 Databases
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQFlite](https://img.shields.io/badge/SQFlite-02569B?style=for-the-badge&logo=dart&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SharedPreferences](https://img.shields.io/badge/SharedPrefs-607D8B?style=for-the-badge&logo=dart&logoColor=white)
+<!-- Skill Icons - Circular Display -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,figma&perline=6" width="380"/>
+</a>
 
-### 🎨 UI/UX & Design
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Cupertino](https://img.shields.io/badge/Cupertino-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=airbnb&logoColor=white)
+<br/><br/>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+<!-- Circular Progress Style Tech Cards -->
+<table>
+<tr>
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+<br/><b>Flutter</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00C4B4?style=flat-square&label=Expert&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65" />
+<br/><b>Dart</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00C4B4?style=flat-square&label=Expert&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br/><b>REST APIs</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00C4B4?style=flat-square&label=Expert&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br/><b>GitHub</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00C4B4?style=flat-square&label=Expert&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br/><b>Java</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━-1a73e8?style=flat-square&label=Good&labelColor=0D1117" />
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br/><b>JavaScript</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━-1a73e8?style=flat-square&label=Good&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+<br/><b>SQLite</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00C4B4?style=flat-square&label=Expert&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+<br/><b>Deployment</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━-8B5CF6?style=flat-square&label=Learning&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Clean Code" width="65" height="65" />
+<br/><b>Clean Code</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00C4B4?style=flat-square&label=Expert&labelColor=0D1117" />
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+<br/><b>GraphQL</b>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━-8B5CF6?style=flat-square&label=Learning&labelColor=0D1117" />
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🪐 Technology Universe
+
+<!-- Outer Ring: Primary Technologies -->
+```
+                          ╭─────────────────────────────────────╮
+                    ╭─────┤        📱 MOBILE DEVELOPMENT        ├─────╮
+                    │     ╰─────────────────────────────────────╯     │
+                    │                                                 │
+              ┌─────┴─────┐                                   ┌──────┴─────┐
+              │  Flutter   │                                   │   Android   │
+              │  ████████  │                                   │   ███████   │
+              └─────┬─────┘                                   └──────┬─────┘
+                    │         ╭───────────────────────────╮          │
+                    │   ╭─────┤    🏗️ STATE MANAGEMENT    ├─────╮   │
+              ┌─────┴───┤     ╰───────────────────────────╯     ├───┴─────┐
+              │  Dart    │                                       │   iOS   │
+              │ ████████ │   ┌───────┐ ┌──────────┐ ┌───────┐   │ ██████  │
+              └─────┬────┘   │ GetX  │ │ Provider │ │  MVC  │   └────┬────┘
+                    │        │███████│ │ ████████ │ │██████ │        │
+                    │        └───┬───┘ └────┬─────┘ └──┬────┘        │
+                    │            │          │          │              │
+                    │         ╭──┴──────────┴──────────┴──╮          │
+                    │   ╭─────┤      🔥 BACKEND CORE      ├─────╮   │
+                    │   │     ╰────────────────────────────╯     │   │
+                    │   │                                        │   │
+              ┌─────┴───┤    ┌──────────┐    ┌───────────┐      ├───┴─────┐
+              │ Firebase │    │ Firestore│    │  Node.js  │      │ Google  │
+              │█████████ │    │ ████████ │    │  ██████   │      │  Maps   │
+              └─────┬────┘    └────┬─────┘    └─────┬─────┘      │████████│
+                    │              │                │             └────┬───┘
+                    │         ╭────┴────────────────┴────╮            │
+                    ╰─────────┤    💾 DATA & STORAGE     ├────────────╯
+                              ╰──────────┬──────────────╯
+                                         │
+                           ┌─────────────┼─────────────┐
+                           │             │             │
+                      ┌────┴────┐  ┌─────┴────┐  ┌────┴─────┐
+                      │ SQLite  │  │ SQFlite  │  │  Shared  │
+                      │████████ │  │█████████ │  │  Prefs   │
+                      └─────────┘  └──────────┘  │ ████████ │
+                                                 └──────────┘
+```
+
+<br/>
+
+### ⚡ Skills Radar
+
+<table>
+<tr>
+<td align="center">
+
+```
+        Mobile Dev
+           ██
+          ████
+         ██████
+        ████████           UI/UX
+       ██████████          ██
+  ◄───████████████───►    ████
+       ██████████        ██████
+        ████████        ████████
+         ██████
+          ████           Backend
+           ██            ██
+                        ████
+  State Mgmt           ██████
+     ██               ████████
+    ████
+   ██████         Databases
+  ████████           ██
+                    ████
+                   ██████
+                  ████████
+```
+
+</td>
+<td>
+
+| Skill Area | Proficiency | Level |
+|:-----------|:------------|:------|
+| 📱 **Flutter / Dart** | `██████████████████░░` | 95% |
+| 🎨 **UI/UX Design** | `█████████████████░░░` | 90% |
+| 🔥 **Firebase** | `█████████████████░░░` | 88% |
+| 🏗️ **GetX / Provider** | `█████████████████░░░` | 90% |
+| 🌐 **REST APIs** | `████████████████░░░░` | 85% |
+| 💾 **SQLite / SQFlite** | `███████████████░░░░░` | 80% |
+| 🗺️ **Google Maps** | `██████████████░░░░░░` | 75% |
+| ☕ **Java** | `████████████░░░░░░░░` | 65% |
+| 📜 **JavaScript** | `███████████░░░░░░░░░` | 60% |
+| 🟢 **Node.js** | `█████████░░░░░░░░░░░` | 50% |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🧰 Full Arsenal
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,figma,java,js,html,nodejs,sqlite,git,github,postman,materialui,gradle&perline=8" />
+
+<br/><br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
@@ -532,7 +692,7 @@ Dual-app e-commerce system — **Customer App** for browsing & ordering + **Admi
 
 <div align="center">
 
-📫 Let's Connect & Build Something Amazing!
+### 📫 Let's Connect & Build Something Amazing!
 
 <br/>
 
